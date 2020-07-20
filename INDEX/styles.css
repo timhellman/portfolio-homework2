@@ -1,0 +1,25 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    color: lightgray;
+    }
+
+.nav-item a {
+    color: darkslategray;
+}    
+
+.row .col-md-8{
+    border-width: 2px;
+    border-color:darkslategray;
+    border-style: solid;
+}
+#gravedigger {
+    width:100%
+}
+
+.container { 
+    margin-top: 10px;
+}
+
+.nav {
+    margin-top: 0px;
+}
