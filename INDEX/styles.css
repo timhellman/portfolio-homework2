@@ -1,6 +1,6 @@
 body {
     font-family: 'Bebas Neue', cursive;
-    color: lightgray;
+    color: darkslategray;
     }
 
 .nav-item a {
@@ -11,6 +11,7 @@ body {
     border-width: 2px;
     border-color:darkslategray;
     border-style: solid;
+    background-color: beige;
 }
 #gravedigger {
     width:100%
@@ -18,6 +19,7 @@ body {
 
 .container { 
     margin-top: 10px;
+    
 }
 
 .nav {
