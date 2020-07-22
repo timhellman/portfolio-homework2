@@ -1,0 +1,44 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    color: lightgray;
+    background-color: darkslategray;
+    }
+
+.nav-item a {
+    color: darkslategray;
+    }    
+   
+.nav {
+    margin-top: 0px;
+    background-color: lightgray;    
+    }
+
+h1 {
+    margin-left: 20px;
+    padding-top: 10px;
+    }  
+    
+h2 {
+    text-align: center;
+    margin-top: 15px;
+    }
+    
+.col-md-8 {
+    border-width: 2px;
+    border-color:lightgray;
+    border-style: solid;
+    background-color: beige;
+    color: darkslategray;
+}    
+
+.container {
+    margin-top: 10px;
+}
+
+
+.place {
+    margin: 8px
+}
+
+
+

@@ -5,9 +5,9 @@ body {
     }
 
 
-   .nav-item a {
-       color: darkslategray;
-   }
+.nav-item a {
+    color: darkslategray;
+    }
 
 .col-md-8{
     border-width: 2px;
@@ -15,30 +15,28 @@ body {
     border-style: solid;
     background-color: beige;
     color: darkslategray;
-}
-#gravedigger {
-    width:100%
-}
-
+    }
+    
 .container { 
     margin-top: 10px;
-   
+    }
     
-}
-
 .nav {
     margin-top: 0px;
     background-color: lightgray;
+    }
     
-}
 h1 {
     margin-left: 20px;
     padding-top: 10px;
-}
-
+    }
+    
 h2 {
     text-align: center;
     margin-top: 15px;
-
-}
-
+    }    
+   
+.btn {
+    background-color: darkslategray;
+    color: lightgray;
+}    
