@@ -1,17 +1,20 @@
 body {
     font-family: 'Bebas Neue', cursive;
-    color: darkslategray;
+    color: lightgray;
+    background-color: darkslategray;
     }
 
-.nav-item a {
-    color: darkslategray;
-}    
 
-.row .col-md-8{
+   .nav-item a {
+       color: darkslategray;
+   }
+
+.col-md-8{
     border-width: 2px;
-    border-color:darkslategray;
+    border-color:lightgray;
     border-style: solid;
     background-color: beige;
+    color: darkslategray;
 }
 #gravedigger {
     width:100%
@@ -19,9 +22,22 @@ body {
 
 .container { 
     margin-top: 10px;
+   
     
 }
 
 .nav {
     margin-top: 0px;
+    background-color: lightgray;
+    
 }
+h1 {
+    margin-left: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 15px;
+
+}
+
